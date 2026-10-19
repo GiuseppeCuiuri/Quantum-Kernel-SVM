@@ -1,0 +1,25 @@
+sigma,problem,quantum_family,quantum,classical,mean_diff,std_diff,wins,ties,losses,t,p
+0.000000,Setosa_vs_Rest,Fixed Quantum,Fixed_Z,rbf,-0.006667,0.013801,0,12,3,-0.858395,0.405132
+0.000000,Setosa_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,rbf,0.000000,0.000000,0,15,0,0.000000,1.000000
+0.000000,Versicolor_vs_Rest,Fixed Quantum,Fixed_Z,poly,-0.015556,0.037516,2,8,5,-0.736842,0.473386
+0.000000,Versicolor_vs_Rest,Trainable Quantum,Trainable_Z_COBYLA,poly,-0.031111,0.044484,1,6,8,-1.242826,0.234345
+0.000000,Virginica_vs_Rest,Fixed Quantum,Fixed_ZZ,poly,-0.004445,0.024774,2,10,3,-0.318806,0.754580
+0.000000,Virginica_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,poly,-0.004444,0.017213,1,11,3,-0.458835,0.653395
+0.500000,Setosa_vs_Rest,Fixed Quantum,Fixed_Z,poly,-0.146667,0.062742,0,0,15,-4.154082,0.000974
+0.500000,Setosa_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,poly,-0.002222,0.008607,0,14,1,-0.458831,0.653398
+0.500000,Versicolor_vs_Rest,Fixed Quantum,Fixed_Z,poly,0.015555,0.057551,8,2,5,0.480315,0.638422
+0.500000,Versicolor_vs_Rest,Trainable Quantum,Trainable_Pauli_COBYLA,poly,-0.002222,0.055587,6,3,6,-0.071045,0.944367
+0.500000,Virginica_vs_Rest,Fixed Quantum,Fixed_ZZ,linear,-0.160000,0.047476,0,0,15,-5.988904,0.000033
+0.500000,Virginica_vs_Rest,Trainable Quantum,Trainable_Pauli_COBYLA,linear,0.004444,0.011729,2,13,0,0.673380,0.511669
+1.000000,Setosa_vs_Rest,Fixed Quantum,Fixed_ZZ,rbf,-0.211111,0.070897,0,0,15,-5.291513,0.000114
+1.000000,Setosa_vs_Rest,Trainable Quantum,Trainable_ZZ_COBYLA,rbf,0.013333,0.035187,5,8,2,0.673379,0.511670
+1.000000,Versicolor_vs_Rest,Fixed Quantum,Fixed_ZZ,poly,-0.028889,0.056155,3,1,11,-0.914189,0.376094
+1.000000,Versicolor_vs_Rest,Trainable Quantum,Trainable_ZZ_SPSA,poly,-0.031111,0.040760,1,4,10,-1.356376,0.196452
+1.000000,Virginica_vs_Rest,Fixed Quantum,Fixed_Z,linear,-0.095555,0.058914,1,0,14,-2.882259,0.012057
+1.000000,Virginica_vs_Rest,Trainable Quantum,Trainable_ZZ_SPSA,linear,0.015555,0.048578,8,2,5,0.569044,0.578342
+2.000000,Setosa_vs_Rest,Fixed Quantum,Fixed_Z,linear,-0.115555,0.073319,0,1,14,-2.800741,0.014160
+2.000000,Setosa_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,linear,-0.006667,0.022538,2,8,5,-0.525656,0.607354
+2.000000,Versicolor_vs_Rest,Fixed Quantum,Fixed_Z,linear,0.000000,0.000000,0,15,0,0.000000,1.000000
+2.000000,Versicolor_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,linear,0.000000,0.000000,0,15,0,0.000000,1.000000
+2.000000,Virginica_vs_Rest,Fixed Quantum,Fixed_Z,rbf,-0.040000,0.049119,2,3,10,-1.447122,0.169882
+2.000000,Virginica_vs_Rest,Trainable Quantum,Trainable_Pauli_SPSA,rbf,0.011111,0.029991,7,5,3,0.658366,0.520984

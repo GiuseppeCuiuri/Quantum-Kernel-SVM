@@ -1,0 +1,12 @@
+[project]
+name = "quantum-kernel-svm"
+version = "0.2.0"
+description = "Classical vs quantum-kernel SVM comparison on Iris with leak-free cross-validation"
+requires-python = ">=3.12"
+dependencies = [
+    "qiskit==2.6.0",
+    "qiskit-machine-learning==0.9.1",
+    "scikit-learn==1.9.1",
+    "pandas==3.0.6",
+    "matplotlib==3.11.2",
+]
