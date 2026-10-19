@@ -1,0 +1,37 @@
+Problem,Type,Model,Optimizer,Accuracy,AUC_ROC,F1_Score,Training_Time
+Setosa_vs_Rest,Classical,rbf,N/A,1.000000,1.000000,1.000000,0.001044
+Setosa_vs_Rest,Classical,poly,N/A,1.000000,1.000000,1.000000,0.002001
+Setosa_vs_Rest,Classical,linear,N/A,1.000000,1.000000,1.000000,0.001000
+Setosa_vs_Rest,Fixed Quantum,Fixed_ZZFeatureMap,None,0.888889,0.988889,0.848485,9.707201
+Setosa_vs_Rest,Fixed Quantum,Fixed_ZFeatureMap,None,1.000000,1.000000,1.000000,6.573937
+Setosa_vs_Rest,Fixed Quantum,Fixed_PauliFeatureMap,None,0.888889,0.988889,0.848485,9.431928
+Setosa_vs_Rest,Trainable Quantum,Trainable_ZZ_SPSA,SPSA,1.000000,1.000000,1.000000,272.875829
+Setosa_vs_Rest,Trainable Quantum,Trainable_ZZ_COBYLA,COBYLA,1.000000,1.000000,1.000000,130.524539
+Setosa_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,SPSA,1.000000,1.000000,1.000000,157.841995
+Setosa_vs_Rest,Trainable Quantum,Trainable_Z_COBYLA,COBYLA,1.000000,1.000000,1.000000,79.784820
+Setosa_vs_Rest,Trainable Quantum,Trainable_Pauli_SPSA,SPSA,1.000000,1.000000,1.000000,302.389490
+Setosa_vs_Rest,Trainable Quantum,Trainable_Pauli_COBYLA,COBYLA,1.000000,1.000000,1.000000,189.944653
+Versicolor_vs_Rest,Classical,rbf,N/A,0.955556,0.995556,0.933333,0.002153
+Versicolor_vs_Rest,Classical,poly,N/A,0.666667,0.860000,0.000000,0.010001
+Versicolor_vs_Rest,Classical,linear,N/A,0.666667,0.726667,0.000000,0.002000
+Versicolor_vs_Rest,Fixed Quantum,Fixed_ZZFeatureMap,None,0.688889,0.522222,0.125000,11.760955
+Versicolor_vs_Rest,Fixed Quantum,Fixed_ZFeatureMap,None,0.955556,0.995556,0.928571,8.544791
+Versicolor_vs_Rest,Fixed Quantum,Fixed_PauliFeatureMap,None,0.688889,0.522222,0.125000,13.831593
+Versicolor_vs_Rest,Trainable Quantum,Trainable_ZZ_SPSA,SPSA,0.977778,0.995556,0.967742,336.687938
+Versicolor_vs_Rest,Trainable Quantum,Trainable_ZZ_COBYLA,COBYLA,0.955556,0.993333,0.933333,181.250472
+Versicolor_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,SPSA,0.955556,0.993333,0.937500,221.725901
+Versicolor_vs_Rest,Trainable Quantum,Trainable_Z_COBYLA,COBYLA,0.955556,0.995556,0.933333,109.443221
+Versicolor_vs_Rest,Trainable Quantum,Trainable_Pauli_SPSA,SPSA,0.955556,0.993333,0.933333,402.624436
+Versicolor_vs_Rest,Trainable Quantum,Trainable_Pauli_COBYLA,COBYLA,0.955556,0.993333,0.933333,177.142743
+Virginica_vs_Rest,Classical,rbf,N/A,0.933333,1.000000,0.888889,0.000998
+Virginica_vs_Rest,Classical,poly,N/A,0.888889,1.000000,0.800000,0.001992
+Virginica_vs_Rest,Classical,linear,N/A,0.933333,1.000000,0.888889,0.000998
+Virginica_vs_Rest,Fixed Quantum,Fixed_ZZFeatureMap,None,0.777778,0.853333,0.642857,10.941068
+Virginica_vs_Rest,Fixed Quantum,Fixed_ZFeatureMap,None,0.911111,0.986667,0.846154,7.964280
+Virginica_vs_Rest,Fixed Quantum,Fixed_PauliFeatureMap,None,0.777778,0.853333,0.642857,10.929283
+Virginica_vs_Rest,Trainable Quantum,Trainable_ZZ_SPSA,SPSA,0.933333,1.000000,0.888889,335.519691
+Virginica_vs_Rest,Trainable Quantum,Trainable_ZZ_COBYLA,COBYLA,0.933333,0.997778,0.888889,154.303620
+Virginica_vs_Rest,Trainable Quantum,Trainable_Z_SPSA,SPSA,0.933333,1.000000,0.888889,185.951160
+Virginica_vs_Rest,Trainable Quantum,Trainable_Z_COBYLA,COBYLA,0.933333,1.000000,0.888889,99.433533
+Virginica_vs_Rest,Trainable Quantum,Trainable_Pauli_SPSA,SPSA,0.933333,0.995556,0.888889,374.982159
+Virginica_vs_Rest,Trainable Quantum,Trainable_Pauli_COBYLA,COBYLA,0.933333,1.000000,0.888889,152.606495
