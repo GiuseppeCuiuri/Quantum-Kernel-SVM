@@ -116,3 +116,11 @@ results/               outputs of the sweep above
 ## License
 
 [MIT](LICENSE)
+
+## Authors
+
+- [Giuseppe Cuiuri](https://github.com/GiuseppeCuiuri)
+- [Davide Cinelli](https://github.com/davidecinelli26)
+
+Developed for the *Quantum Computing* course, MSc in Computer Engineering, University of Calabria, A.Y. 2024/2025.
+Project slides: [QSVM.pptx](QSVM.pptx).
